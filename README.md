@@ -6,6 +6,6 @@
 # git 
 $ git status # st 
 $ git add .  # adda 
-$ git commit -m "commit"   #comb
+$ git commit -m "commit"   # comb
 $ git push
 ```
